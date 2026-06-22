@@ -1,0 +1,7 @@
+[
+  {
+    "question": "What is retrieval-augmented generation?",
+    "ground_truth": "RAG is a technique that combines a retrieval system with a generative language model to ground responses in external documents.",
+    "source": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation"
+  }
+]
